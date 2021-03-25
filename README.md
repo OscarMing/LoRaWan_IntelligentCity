@@ -3,6 +3,10 @@
 >1. Communicate with CHIOT(Cloud Service of Chunghwa Telecom Co., Ltd. Taiwan)
 >2. Communicate with Google Firebase firestore
 
+#### BTSS02 ####
+>1. An Actuator control vis bluetooth
+>2. Extend to OscarMing/Gas_Sensor Repo(https://github.com/OscarMing/Gas_Sensor) .
+
 #### CoreRun.py ####
 >1. An MCU Sensing Prototype Module.
 >2. Include Temperature, Humidity also extend to OscarMing/Gas_Sensor Repo(https://github.com/OscarMing/Gas_Sensor) .
